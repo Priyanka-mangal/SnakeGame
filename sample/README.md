@@ -1,6 +1,6 @@
 # sample
 
-A new Flutter project.
+A snake game using flutter
 
 ## Getting Started
 
